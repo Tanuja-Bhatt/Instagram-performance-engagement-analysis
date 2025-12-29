@@ -54,6 +54,7 @@ The dataset is **synthetic and educational**, created to simulate real Instagram
 * `high_intent_engagement` (saves + shares)
 * `follower_bucket` (Small / Medium / Large / Very Large)
 
+dataset link- https://www.kaggle.com/datasets/kundanbedmutha/instagram-analytics-dataset
 >  Several columns were **reworked after discovering logical or analytical issues**, reflecting real-world data refinement.
 
 ---
